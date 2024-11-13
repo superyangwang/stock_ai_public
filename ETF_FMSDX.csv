@@ -1,0 +1,5 @@
+,ETF,date, operation,price,total_price,total,totalP
+0,FXAIX,2021-11-23,buy,14.9,1000,0,0.05
+1,FXAIX,2024-10-30,reset,14.23,0,0,0.05
+2,FMSDX,2024-10-31,buy,14.13,2000,0,0.05
+3,FMSDX,2024-11-05,buy,14.15,2000,0,0.05

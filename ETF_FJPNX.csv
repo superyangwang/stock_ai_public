@@ -1,0 +1,5 @@
+,ETF,date, operation,price,total_price,total,totalP
+0,FJPNX,2024-08-06,buy,16.20,1000,0.05
+1,FJPNX,2024-09-06,buy,17.45,1500,0.05
+2,FJPNX,2024-10-09,sell,18.51,450,0.05
+3,FJPNX,2024-11-01,buy,17.45,3000,0.05

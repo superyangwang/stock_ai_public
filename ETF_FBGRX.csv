@@ -1,0 +1,6 @@
+,ETF,date, operation,price,total_price,total,totalP
+0,FBGRX,2024-08-05,buy,194.93,2000,0,1
+1,FBGRX,2024-08-28,buy,214.68,1500,16477.4,1
+2,FBGRX,2024-09-17,buy,203.24,3000,20245.31,
+3,FBGRX,2024-10-23,reset,213, 0,0
+4,FBGRX,2024-10-28,sell,216.09,3000,0
