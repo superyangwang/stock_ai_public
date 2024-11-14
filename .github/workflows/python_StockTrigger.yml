@@ -5,52 +5,6 @@ name: Python Stock Trigger
 
 on:
   workflow_dispatch:
-  schedule:
-#    - cron:  '*/10 * * * 1-5'
-#    - cron: '30 13 * * 1-5'  # 9:30 AM New York
-    - cron: '45 13 * * 1-5'  # 9:40 AM New York
-#    - cron: '50 13 * * 1-5'  # 9:50 AM New York
-    - cron: '0 14 * * 1-5'   # 10:00 AM New York
-#    - cron: '10 14 * * 1-5'  # 10:10 AM New York
-    - cron: '20 14 * * 1-5'  # 10:20 AM New York
-#    - cron: '30 14 * * 1-5'  # 10:30 AM New York
-    - cron: '40 14 * * 1-5'  # 10:40 AM New York
-#    - cron: '50 14 * * 1-5'  # 10:50 AM New York
-    - cron: '0 15 * * 1-5'   # 11:00 AM New York
-#    - cron: '10 15 * * 1-5'  # 11:10 AM New York
-    - cron: '20 15 * * 1-5'  # 11:20 AM New York
-#    - cron: '30 15 * * 1-5'  # 11:30 AM New York
-    - cron: '40 15 * * 1-5'  # 11:40 AM New York
-#    - cron: '50 15 * * 1-5'  # 11:50 AM New York
-    - cron: '0 16 * * 1-5'   # 12:00 PM New York
-#    - cron: '10 16 * * 1-5'  # 12:10 PM New York
-#    - cron: '20 16 * * 1-5'  # 12:20 PM New York
-    - cron: '30 16 * * 1-5'  # 12:30 PM New York
-#    - cron: '40 16 * * 1-5'  # 12:40 PM New York
-    - cron: '50 16 * * 1-5'  # 12:50 PM New York
-#    - cron: '0 17 * * 1-5'   # 1:00 PM New York
-    - cron: '10 17 * * 1-5'  # 1:10 PM New York
-#    - cron: '20 17 * * 1-5'  # 1:20 PM New York
-#    - cron: '30 17 * * 1-5'  # 1:30 PM New York
-#    - cron: '40 17 * * 1-5'  # 1:40 PM New York
-#    - cron: '50 17 * * 1-5'  # 1:50 PM New York
-    - cron: '0 18 * * 1-5'   # 2:00 PM New York
-#    - cron: '10 18 * * 1-5'  # 2:10 PM New York
-#    - cron: '20 18 * * 1-5'  # 2:20 PM New York
-#    - cron: '30 18 * * 1-5'  # 2:30 PM New York
-#    - cron: '40 18 * * 1-5'  # 2:40 PM New York
-#    - cron: '50 18 * * 1-5'  # 2:50 PM New York
-    - cron: '0 19 * * 1-5'   # 3:00 PM New York
-#    - cron: '10 19 * * 1-5'  # 3:10 PM New York
-#    - cron: '20 19 * * 1-5'  # 3:20 PM New York
-#    - cron: '30 19 * * 1-5'  # 3:30 PM New York
-    - cron: '40 19 * * 1-5'  # 3:40 PM New York
-#    - cron: '50 19 * * 1-5'  # 3:50 PM New York
-#    - cron: '0 20 * * 1-5'   # 4:00 PM New York
-#  push:
-#    branches: [ "master" ]
-#  pull_request:
-#    branches: [ "master" ]
 
 permissions:
   contents: read
