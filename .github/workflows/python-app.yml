@@ -4,9 +4,10 @@
 name: Python application
 
 on:
+  workflow_dispatch:
   schedule:
 #    - cron:  '30 19 * * 1-5'
-    - cron:  '45 19 * * 1-5'
+    # - cron:  '45 19 * * 1-5'
 #    - cron:  '30 18 * * 1-5'
 #  push:
 #    branches: [ "master" ]
